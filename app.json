@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Perfil3 pokeAppEliezer",
+    "slug": "perfil3-JavierJuarez",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/masterball.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/masterball.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "android": {
+      "package": "com.perfil3.JavierJuarez",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/masterball.jpg",
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef223943-eef0-481c-8930-7279b8eda0de"
+      }
+    }
+  }
+}
